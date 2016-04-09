@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeMeHome</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_input">Input</string>
+    <string name="button_input">Go to input</string>
+    <string name="postal_address_hint">Enter your home address</string>
+</resources>
